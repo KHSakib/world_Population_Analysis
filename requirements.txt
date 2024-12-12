@@ -1,0 +1,13 @@
+streamlit 
+pandas 
+openpyxl
+geopandas
+gsppy
+matplotlib
+mlxtend
+prefixspan
+PyAutoGUI
+seaborn
+plotly
+scikit-multilearn
+scikit-learn
